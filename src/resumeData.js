@@ -1,5 +1,5 @@
 let resumeData = {
-  imagebaseurl: "/",
+  imagebaseurl: "https://soumyamokashi09.netlify.app/",
   name: "Soumya Mokashi",
   role: "Frontend Developer",
   "linkedinId":"Your LinkedIn Id",
