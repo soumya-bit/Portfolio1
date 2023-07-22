@@ -35,7 +35,7 @@ let resumeData = {
     },
     {
       UniversityName: "Mumbai University",
-      Qualification: "Pursuing B.E.Degree",
+      Qualification: "Bachelor in Engineering in Electronics and Telecommunication Department",
       MonthOfPassing: "May",
       YearOfPassing: "2021"
     }
